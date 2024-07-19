@@ -27,9 +27,9 @@ const Home = () => {
                 <span>Download CV</span>
                 <FiDownload className="text-xl" />
               </Button>
-              <div className="mb-8 xl:mb-0">
+              {/* <div className="mb-8 xl:mb-0">
                 <Social />
-              </div>
+              </div> */}
             </div>
           </div>
 
